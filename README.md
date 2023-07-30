@@ -12,8 +12,6 @@ You can switch to any software programming language: C++, java, python, python3,
   Question 2: reverse the string without using the function in the library
 
   Question 3:
-    given an array of strings, write one line of function that transforms it into one single string,
-    in such a way that when transferred into a destination it can unpackage it. 
-    Explain String pool in its UML Diagram.
+    given an array of strings, write one line of function that transforms it into one single string, in such a way that when transferred into a destination it can         unpackage it. Explain String pool in its UML Diagram.
 
   Question 4: where do we draw the UML diagram?
